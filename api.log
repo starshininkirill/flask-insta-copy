@@ -1,0 +1,12 @@
+2023-01-31 21:35:57,193 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-31 21:35:57,194 INFO [33mPress CTRL+C to quit[0m
+2023-01-31 21:36:29,365 INFO Запрос
+2023-01-31 21:36:29,365 INFO 127.0.0.1 - - [31/Jan/2023 21:36:29] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-31 21:37:15,945 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-31 21:37:15,945 INFO [33mPress CTRL+C to quit[0m
+2023-01-31 21:37:22,583 INFO Query: /posts/
+2023-01-31 21:37:22,584 INFO 127.0.0.1 - - [31/Jan/2023 21:37:22] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-31 21:37:28,227 INFO Query: /posts/4
+2023-01-31 21:37:28,228 INFO 127.0.0.1 - - [31/Jan/2023 21:37:28] "GET /api/posts/4 HTTP/1.1" 200 -
